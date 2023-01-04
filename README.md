@@ -9,7 +9,7 @@
 ### The objective of our project is to predict what rental rates will look like in 10 years and equate that to the predicted increases in social security in the same timeframe.
 
 
-### The reason we selected this topic is to use Machine Learning and Linear Regression to provide a visualization by region that will show the impact of the rent rate increases compared to the historical increases in Social Security.  This impact will have economic consequences for those on fixed incomes and will sadly could result in additional homelessness.
+### The reason we selected this topic is to use Machine Learning and Linear Regression to provide a visualization by region that will show the impact of the rent rate increases compared to the historical increases in Social Security.  This impact will have economic consequences for those on fixed incomes and sadly could result in additional homelessness.
 
 ### The Data Source 1 is from Zillow Observed Rent Index (ZORI).  ZORI measures changes in asking rents over time, controlling for changes in the quality of the available rental stock. The data provided is the weighted mean asking rent for the region which is then smoothed using a 3 month moving average.  Monthly mean asking rental values are provided beginning with March 2015 and is current through November 2022.
 
@@ -23,8 +23,16 @@
 
 ### Description of Communication Protocols:
 
-### 1)
+### 1) Slack will be the primary means of communicating.  The secondary means is through email copying everyone on the team and should only be used in the event Slack is not available.
 
+### 2) Zoom or other similar videoconferencing applications will be used for the group to coordinate outside of class. Scheduling and login information will be posted in Slack.
+
+
+### Individual Branches:
+
+### 1) Each team member has their own individual brack with their name on it.
+
+### 2) Each team member has 4 or more commits during this segment of the final project.
 
 
 ## MACHINE LEARNING MODEL
