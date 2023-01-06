@@ -36,6 +36,7 @@
 
 
 ## MACHINE LEARNING MODEL
+### In this project, we are going to use linear Machine Learning model. To achieve target values, we are going to use multiple columns values. To test the accuracy, we will use accuracy score, Mean Square error, and R square.  To compare the accuracy, we will add other linear regression models in future.
 
 
 ## DATABASE
