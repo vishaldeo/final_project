@@ -43,7 +43,7 @@
 
 ## DASHBOARD  - n/a
 
-![Cover](https://user-images.githubusercontent.com/111101012/210926215-fcebc7ec-342c-4c9e-a901-7d272ca3fc8d.png)
+![Cover](https://user-images.githubusercontent.com/111101012/210926409-f2399d27-4135-4d34-9423-a2f84b6c87ff.png)
 
 ![Agenda](https://user-images.githubusercontent.com/111101012/210926154-45f25fa6-46d0-404e-8ef0-8a14a8f20ec0.png)
 
