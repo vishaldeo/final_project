@@ -46,11 +46,11 @@
 
 ![Cover](https://user-images.githubusercontent.com/111101012/210926409-f2399d27-4135-4d34-9423-a2f84b6c87ff.png)
 
-![team members](https://user-images.githubusercontent.com/111101012/210927642-c92842cc-74f3-407b-b2b9-8629abf53674.png)
+![Team members](https://user-images.githubusercontent.com/111101012/210931239-08a6f136-9060-418f-8073-11c8da1b2c48.png)
 
 ![Agenda](https://user-images.githubusercontent.com/111101012/210926577-2ec5b612-f9d9-4db2-b8e8-b263bddffeea.png)
 
-![Topic](https://user-images.githubusercontent.com/111101012/210926880-8e7d47a1-b430-4b94-b4fc-aec7993a23ab.png)
+![Topic](https://user-images.githubusercontent.com/111101012/210931300-09fb88f9-2d2c-41a9-9bba-f1e6ecc37bbf.png)
 
 ![Topic Description](https://user-images.githubusercontent.com/111101012/210927067-8ff4e6d4-9736-4b42-b5ca-781c3468a690.png)
 
