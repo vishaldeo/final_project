@@ -55,3 +55,4 @@
 
 ![Questions to Answer](https://user-images.githubusercontent.com/111101012/210927420-781f3f82-9be1-4e94-830a-6ea61ba4b888.png)
 
+![Thank you](https://user-images.githubusercontent.com/111101012/210927570-977816d1-4882-402e-beef-2a12502a8595.png)
