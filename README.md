@@ -36,7 +36,7 @@
 
 
 ## MACHINE LEARNING MODEL
-### In this project, we are going to use linear Machine Learning model. To achieve target values, we are going to use multiple columns values. To test the accuracy, we will use accuracy score, Mean Square error, and R square.  To compare the accuracy, we will add other linear regression models in future.
+### In this project, we are going to use linear Machine Learning model. To achieve target values, we are going to use multiple columns values. To test the accuracy, we will use accuracy score, Mean Square error, and R square.  To compare the accuracy, we will add other linear regression models in future.In the fig below, we are trying to see the linear relationship between the rent price increase over the time.
 
 ![Screenshot_20230105_083449](https://user-images.githubusercontent.com/111101038/210931086-90be571c-8a19-4d55-b321-a4ccfb568b29.png)
 
