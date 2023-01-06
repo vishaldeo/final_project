@@ -47,5 +47,5 @@
 
 ![Agenda](https://user-images.githubusercontent.com/111101012/210926577-2ec5b612-f9d9-4db2-b8e8-b263bddffeea.png)
 
-![Topic](https://user-images.githubusercontent.com/111101012/210926724-6f2d7915-56eb-4ee4-a69c-5f8625cec20d.png)
+![Topic](https://user-images.githubusercontent.com/111101012/210926880-8e7d47a1-b430-4b94-b4fc-aec7993a23ab.png)
 
