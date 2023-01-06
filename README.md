@@ -43,6 +43,9 @@
 
 ### ERD Diagram 
 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/22928255/210931566-f78899dd-8be8-4b3a-9306-59ce9c3793f8.png">
+
+
 
 ## DASHBOARD  - n/a
 
