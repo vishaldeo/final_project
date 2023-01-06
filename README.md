@@ -52,3 +52,6 @@
 ![Topic Description](https://user-images.githubusercontent.com/111101012/210927067-8ff4e6d4-9736-4b42-b5ca-781c3468a690.png)
 
 ![Data Source Description](https://user-images.githubusercontent.com/111101012/210927291-765b3a94-4546-4173-b159-f05e833d9865.png)
+
+![Questions to Answer](https://user-images.githubusercontent.com/111101012/210927420-781f3f82-9be1-4e94-830a-6ea61ba4b888.png)
+
