@@ -30,7 +30,7 @@
 
 ### Individual Branches:
 
-### 1) Each team member has their own individual brack with their name on it.
+### 1) Each team member has their own individual branch with their name on it.
 
 ### 2) Each team member has 4 or more commits during this segment of the final project.
 
