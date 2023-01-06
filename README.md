@@ -45,6 +45,8 @@
 
 ![Cover](https://user-images.githubusercontent.com/111101012/210926409-f2399d27-4135-4d34-9423-a2f84b6c87ff.png)
 
+![team members](https://user-images.githubusercontent.com/111101012/210927642-c92842cc-74f3-407b-b2b9-8629abf53674.png)
+
 ![Agenda](https://user-images.githubusercontent.com/111101012/210926577-2ec5b612-f9d9-4db2-b8e8-b263bddffeea.png)
 
 ![Topic](https://user-images.githubusercontent.com/111101012/210926880-8e7d47a1-b430-4b94-b4fc-aec7993a23ab.png)
