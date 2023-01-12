@@ -52,18 +52,6 @@
 
 ## DASHBOARD  - n/a
 
-![Cover](https://user-images.githubusercontent.com/111101012/210926409-f2399d27-4135-4d34-9423-a2f84b6c87ff.png)
+Google Slides
 
-![Team members](https://user-images.githubusercontent.com/111101012/210931239-08a6f136-9060-418f-8073-11c8da1b2c48.png)
-
-![Agenda](https://user-images.githubusercontent.com/111101012/210926577-2ec5b612-f9d9-4db2-b8e8-b263bddffeea.png)
-
-![Topic](https://user-images.githubusercontent.com/111101012/210931300-09fb88f9-2d2c-41a9-9bba-f1e6ecc37bbf.png)
-
-![Topic Description](https://user-images.githubusercontent.com/111101012/210927067-8ff4e6d4-9736-4b42-b5ca-781c3468a690.png)
-
-![Data Source Description](https://user-images.githubusercontent.com/111101012/210927291-765b3a94-4546-4173-b159-f05e833d9865.png)
-
-![Questions to Answer](https://user-images.githubusercontent.com/111101012/210927420-781f3f82-9be1-4e94-830a-6ea61ba4b888.png)
-
-![Thank you](https://user-images.githubusercontent.com/111101012/210927570-977816d1-4882-402e-beef-2a12502a8595.png)
+https://docs.google.com/presentation/d/1Go8pSuyrXhttIZDGgcG-vxBTrxctnHBkB7PIduGGTpQ/edit?usp=sharing 
