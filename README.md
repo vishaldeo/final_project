@@ -6,16 +6,22 @@
 
 ### In many popular sunbelt retirement communities rent has risen by more than 30 % over the past year.  This surge will have economic impacts on many people, especially retirees who are on a fixed income.
 
-### The objective of our project is to predict what rental rates will look like in 10 years and equate that to the predicted increases in social security in the same timeframe.
+### The objective of our project is to predict what rental rates will look like in up to 3 years and equate that to the predicted increases in social security in the same timeframe.
 
 
 ### The reason we selected this topic is to use Machine Learning and Linear Regression to provide a visualization by region that will show the impact of the rent rate increases compared to the historical increases in Social Security.  This impact will have economic consequences for those on fixed incomes and sadly could result in additional homelessness.
 
-### The Data Source 1 is from Zillow Observed Rent Index (ZORI).  ZORI measures changes in asking rents over time, controlling for changes in the quality of the available rental stock. The data provided is the weighted mean asking rent for the region which is then smoothed using a 3 month moving average.  Monthly mean asking rental values are provided beginning with March 2015 and is current through November 2022.
+### The Data Source 1 is from Zillow Observed Rent Index (ZORI) and Zillow Housing Value Index (ZHVI) (independent variable for relation).  ZORI measures changes in asking rents over time, controlling for changes in the quality of the available rental stock. The data provided is the weighted mean asking rent for the region which is then smoothed using a 3 month moving average.  Monthly mean asking rental values are provided beginning with March 2015 and is current through November 2022.
 
 ### The Data Source 2 is from www.gobankingrates.com and is the average monthly Social Security payment for the years 1950 through 2022.
 
 ### The questions we hope to answer with the data are what is the time series linear regression predicted rental rate increases compared to social security increases in the next 10 years by region.  We hope to visualize this geographically using Tableau.
+
+### The exploration phase of the project involved finding sufficient rental rate data.  The ZORI data was the most recent and was well defined but had many null values.  The original dataset had over 5,000 rows (zip codes) of data which shrunk to just over 900 rows after null values were dropped. Likewise the ZHVI dataset had over 27,000 rows of data and shrunk to 9200 rows after null values were dropped.  The Social Security data went back on an annual basis to 1940 and did not have null values.
+
+### The analysis phase of the project was most complex.  Initially time series linear regression was the obvious choice but there are multiple models depending on the ciircumstances surrounding the data.  The ARIMA (Auto Regressive Integrated Moving Average) model was initially selected but there was some seasonality observed in the ZORI data so instead the SARIMA (Seasonal Auto Regressive Integrated Moving Average) model was used.  The results of the analysis indicated that we are not getting good performance from the model due to lack of data points (93 months).  We are working with the model to refine this at this segment.  If we shorten the prediction period we find we gett better accuracy.
+
+### Google Slides Presentations:
 
 ## GITHUB
 
