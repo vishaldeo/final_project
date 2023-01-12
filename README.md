@@ -38,7 +38,10 @@
 
 ### 1) Each team member has their own individual branch with their name on it.
 
-### 2) Each team member has 4 or more commits during this segment of the final project.
+### 2) Each team member has 4 or more commits during each segment of the final project.
+
+### 3) There are 10 branches in addition to the main branch: JohnLansberry, MichelleCarranza, MKML_seg2, vs_adaprocess, MK_ML Seg2, MK_Mlearningseg1, vs_segment1_erd, vs_Segment1db, vs_python, and MKML_Seg2.
+
 
 
 ## MACHINE LEARNING MODEL
