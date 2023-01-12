@@ -39,7 +39,7 @@
 ### In this project, we are going to use linear Machine Learning model. To achieve target values, we are going to use multiple columns values. To test the accuracy, we will use accuracy score, Mean Square error, and R square.  To compare the accuracy, we will add other linear regression models in future.In the fig below, we are trying to see the linear relationship between the rent price increase over the time.
 ### We used Zillow rent data for our model. For cleaning, we deleted null values, dropped some column names, transpose the data. 
 ### For feature selection we choose two features of dataset Date and RegionID, which is basically zip codes for the area. Our decision is to predict the rental rate increase in future. 
-### For train and test we split our data into approx. 80% and 20%. We used our 80% data for training purpose and 20% for the testing purposes. and for future prediction used our whole dataset.
+### For train and test we split our data into approx. 80% and 20%. We used our 80% data for training purpose and 20% for the testing purposes and for future prediction used our whole dataset.
 ### We used the SARIMA machine learning model for the analysis. Benefit of this model is it’s a good model for seasonal time series analysis. Limitation of this model is doesn't work well for long term predictions. As, the time period goes up the model’s accuracy start decreasing.
 
 
