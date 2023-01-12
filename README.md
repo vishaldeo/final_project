@@ -59,7 +59,11 @@
 
 
 
-## DASHBOARD  - n/a
+## DASHBOARD  
+
+### Tableau Dashboard:
+
+![__](https://github.com/vishaldeo/final_project/blob/main/Tableau_Screenshot.png)
 
 Google Slides
 
