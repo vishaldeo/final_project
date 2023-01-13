@@ -5,25 +5,25 @@
 CREATE TABLE Rent_Data_tab (
     Zipcode INTEGER   NOT NULL,
     CountyName VARCHAR   NOT NULL,
+    Date Date   NOT NULL,
     city VARCHAR   NOT NULL,
     State VARCHAR   NOT NULL,
-    Date Date   NOT NULL,
     Rent numeric   NOT NULL,
+    Year INTEGER   NOT NULL,
     Latitude numeric   NOT NULL,
     Longitude numeric   NOT NULL,
     CONSTRAINT pk_Rent_Data_tab PRIMARY KEY (
-        Zipcode,CountyName
+        Zipcode,CountyName,Date
      )
 );
 
 CREATE TABLE SS_data_tab (
-    Date Date   NOT NULL,
+    Year INTEGER   NOT NULL,
     SS_amount numeric   NOT NULL,
     CONSTRAINT pk_SS_data_tab PRIMARY KEY (
-        Date
+        Year
      )
 );
 
-ALTER TABLE Rent_Data_tab ADD CONSTRAINT fk_Rent_Data_tab_Date FOREIGN KEY(Date)
-REFERENCES SS_data_tab (Date);
-
+ALTER TABLE Rent_Data_tab ADD CONSTRAINT fk_Rent_Data_tab_Year FOREIGN KEY(Year)
+REFERENCES SS_data_tab (Year);
