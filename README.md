@@ -95,6 +95,7 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 <img width="1426" alt="Analysis Phase of the Project" src="https://user-images.githubusercontent.com/111101012/212267540-f091dd6f-decc-4934-8013-147b608c29f4.png">
 <img width="1427" alt="Tool Description" src="https://user-images.githubusercontent.com/111101012/212267557-fc5e0ebe-8bda-4a48-898e-031b4d05d6dd.png">
 <img width="1432" alt="Interactive Element Description" src="https://user-images.githubusercontent.com/111101012/212267647-5a3557df-a001-47f0-b8f1-11e5f087d9b3.png">
+<img width="1435" alt="Storyboard" src="https://user-images.githubusercontent.com/111101012/212267756-126e6b38-e539-42ef-a6bc-b51c5dba434f.png">
 
 
 https://docs.google.com/presentation/d/1Go8pSuyrXhttIZDGgcG-vxBTrxctnHBkB7PIduGGTpQ/edit?usp=sharing 
