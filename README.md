@@ -65,21 +65,4 @@
 
 ### ERD Diagram 
 
-We used the online version of [dataase desing](https://app.quickdatabasediagrams.com/ "quickdatabasediagrams" ) for data modeling. Below is our datamodel for the source datafiles.
 
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/22928255/212256391-c02a85aa-5070-4c48-93a3-7d485eb8836c.png">
-
-To load the data into the postgres database in AWS , we used the `sqlalchemy` 
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/22928255/212258340-54c08138-af12-47d8-bf0d-18782f4284fa.png">
-
-## DASHBOARD  
-
-### Tableau Dashboard:
-
-![__](https://github.com/vishaldeo/final_project/blob/main/Images/Tableau_Screenshot.png)
-
-Google Slides
-
-https://docs.google.com/presentation/d/1Go8pSuyrXhttIZDGgcG-vxBTrxctnHBkB7PIduGGTpQ/edit?usp=sharing 
