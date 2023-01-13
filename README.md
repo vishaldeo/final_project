@@ -87,6 +87,10 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 <img width="1429" alt="Agenda" src="https://user-images.githubusercontent.com/111101012/212265550-f7e2e84a-aaf5-4656-98b5-7c62b8335032.png">
 <img width="1427" alt="Team" src="https://user-images.githubusercontent.com/111101012/212264985-15aa6115-3fe5-4ca9-8b8b-2104e9b368a1.png">
 <img width="1428" alt="Segment 2" src="https://user-images.githubusercontent.com/111101012/212265688-45b642d4-7979-4ae5-8967-f431252b4f3a.png">
+<img width="1433" alt="Selected Topic" src="https://user-images.githubusercontent.com/111101012/212266024-89940684-4ee3-4689-9272-7531bf5c4324.png">
+<img width="1431" alt="Topic Description" src="https://user-images.githubusercontent.com/111101012/212266034-59aa036f-d6bb-447a-8c22-df793cafa7be.png">
+<img width="1433" alt="Data Source Description" src="https://user-images.githubusercontent.com/111101012/212266068-90278c22-6063-4150-8bd8-b3e6c1622d54.png">
+<img width="1432" alt="Questions to Answer" src="https://user-images.githubusercontent.com/111101012/212266086-98e27a6d-188f-4202-a103-f30cf357b8af.png">
 
 
 https://docs.google.com/presentation/d/1Go8pSuyrXhttIZDGgcG-vxBTrxctnHBkB7PIduGGTpQ/edit?usp=sharing 
