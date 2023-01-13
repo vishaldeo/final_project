@@ -98,22 +98,6 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 <img width="1432" alt="Interactive Element Description" src="https://user-images.githubusercontent.com/111101012/212267647-5a3557df-a001-47f0-b8f1-11e5f087d9b3.png">
 <img width="1435" alt="Storyboard" src="https://user-images.githubusercontent.com/111101012/212267756-126e6b38-e539-42ef-a6bc-b51c5dba434f.png">
 
-=======
-
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/22928255/212256391-c02a85aa-5070-4c48-93a3-7d485eb8836c.png">
-
-To load the data into the postgres database in AWS , we used the `sqlalchemy` 
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/22928255/212258340-54c08138-af12-47d8-bf0d-18782f4284fa.png">
-
-## DASHBOARD  
-
-### Tableau Dashboard:
-
-![__](https://github.com/vishaldeo/final_project/blob/main/Images/Tableau_Screenshot.png)
-
-Google Slides
->>>>>>> main
+## Google Slides Link
 
 https://docs.google.com/presentation/d/1Go8pSuyrXhttIZDGgcG-vxBTrxctnHBkB7PIduGGTpQ/edit?usp=sharing 
