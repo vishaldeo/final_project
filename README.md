@@ -80,6 +80,13 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 
 ![__](https://github.com/vishaldeo/final_project/blob/main/Images/Tableau_Screenshot.png)
 
-Google Slides
+
+## Google Slides
+
+<img width="1435" alt="Cover" src="https://user-images.githubusercontent.com/111101012/212264897-4d89b417-4a2f-460e-9425-a5081c901449.png">
+<img width="1429" alt="Agenda" src="https://user-images.githubusercontent.com/111101012/212265550-f7e2e84a-aaf5-4656-98b5-7c62b8335032.png">
+<img width="1427" alt="Team" src="https://user-images.githubusercontent.com/111101012/212264985-15aa6115-3fe5-4ca9-8b8b-2104e9b368a1.png">
+<img width="1428" alt="Segment 2" src="https://user-images.githubusercontent.com/111101012/212265012-6b989b48-d5b9-44f0-9931 6a25d3926609.png">
+
 
 https://docs.google.com/presentation/d/1Go8pSuyrXhttIZDGgcG-vxBTrxctnHBkB7PIduGGTpQ/edit?usp=sharing 
