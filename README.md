@@ -71,7 +71,9 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 <img width="1427" alt="Tool Description" src="https://user-images.githubusercontent.com/111101012/212267557-fc5e0ebe-8bda-4a48-898e-031b4d05d6dd.png">
 <img width="1432" alt="Interactive Element Description" src="https://user-images.githubusercontent.com/111101012/212267647-5a3557df-a001-47f0-b8f1-11e5f087d9b3.png">
 <img width="1435" alt="Storyboard" src="https://user-images.githubusercontent.com/111101012/212267756-126e6b38-e539-42ef-a6bc-b51c5dba434f.png">
+![Screen Shot 2023-01-19 at 3 13 30 AM](https://user-images.githubusercontent.com/111101012/213428247-127ec7de-e4ae-47fc-a636-60e549b533a9.png)
 ![Screen Shot 2023-01-19 at 2 59 15 AM](https://user-images.githubusercontent.com/111101012/213427643-56d5b94c-7bb8-410b-8055-00ece40f953b.png)
+![Screen Shot 2023-01-19 at 2 59 31 AM](https://user-images.githubusercontent.com/111101012/213428039-d1d44b3e-a165-4d1f-91b1-4ac29f840acb.png)
 
 ## Google Slides Link
 
