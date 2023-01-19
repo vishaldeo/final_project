@@ -87,6 +87,8 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 <img width="1435" alt="Cover" src="https://user-images.githubusercontent.com/111101012/212264897-4d89b417-4a2f-460e-9425-a5081c901449.png">
 <img width="1432" alt="Agenda" src="https://user-images.githubusercontent.com/111101012/212267110-03382c24-66ca-40b5-a56e-99a08ebfd1a7.png">
 <img width="1427" alt="Team" src="https://user-images.githubusercontent.com/111101012/212264985-15aa6115-3fe5-4ca9-8b8b-2104e9b368a1.png">
+![segment three screenshot](https://user-images.githubusercontent.com/111101012/213426630-fa69a403-0d54-44cb-8a5a-a046dbf292e1.png)
+
 
 
 
