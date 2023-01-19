@@ -60,6 +60,7 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 <img width="1432" alt="Agenda" src="https://user-images.githubusercontent.com/111101012/212267110-03382c24-66ca-40b5-a56e-99a08ebfd1a7.png">
 <img width="1427" alt="Team" src="https://user-images.githubusercontent.com/111101012/212264985-15aa6115-3fe5-4ca9-8b8b-2104e9b368a1.png">
 
+![Segment 3](https://user-images.githubusercontent.com/111101012/213542044-03b9f2aa-36c6-4b1a-b4d0-b931404a1283.png)
 
 
 <img width="1433" alt="Selected Topic" src="https://user-images.githubusercontent.com/111101012/212266024-89940684-4ee3-4689-9272-7531bf5c4324.png">
