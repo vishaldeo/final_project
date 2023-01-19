@@ -59,7 +59,9 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 <img width="1435" alt="Cover" src="https://user-images.githubusercontent.com/111101012/212264897-4d89b417-4a2f-460e-9425-a5081c901449.png">
 <img width="1432" alt="Agenda" src="https://user-images.githubusercontent.com/111101012/212267110-03382c24-66ca-40b5-a56e-99a08ebfd1a7.png">
 <img width="1427" alt="Team" src="https://user-images.githubusercontent.com/111101012/212264985-15aa6115-3fe5-4ca9-8b8b-2104e9b368a1.png">
-![segment three screenshot](https://user-images.githubusercontent.com/111101012/213427349-c664d8d1-7554-4e79-8ae5-eff19e3adfd1.png)
+
+
+
 <img width="1433" alt="Selected Topic" src="https://user-images.githubusercontent.com/111101012/212266024-89940684-4ee3-4689-9272-7531bf5c4324.png">
 <img width="1431" alt="Topic Description" src="https://user-images.githubusercontent.com/111101012/212266034-59aa036f-d6bb-447a-8c22-df793cafa7be.png">
 <img width="1433" alt="Data Source Description" src="https://user-images.githubusercontent.com/111101012/212266068-90278c22-6063-4150-8bd8-b3e6c1622d54.png">
@@ -69,6 +71,7 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 <img width="1427" alt="Tool Description" src="https://user-images.githubusercontent.com/111101012/212267557-fc5e0ebe-8bda-4a48-898e-031b4d05d6dd.png">
 <img width="1432" alt="Interactive Element Description" src="https://user-images.githubusercontent.com/111101012/212267647-5a3557df-a001-47f0-b8f1-11e5f087d9b3.png">
 <img width="1435" alt="Storyboard" src="https://user-images.githubusercontent.com/111101012/212267756-126e6b38-e539-42ef-a6bc-b51c5dba434f.png">
+![Screen Shot 2023-01-19 at 2 59 15 AM](https://user-images.githubusercontent.com/111101012/213427643-56d5b94c-7bb8-410b-8055-00ece40f953b.png)
 
 ## Google Slides Link
 
