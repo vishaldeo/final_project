@@ -79,6 +79,6 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 
 https://docs.google.com/presentation/d/1Go8pSuyrXhttIZDGgcG-vxBTrxctnHBkB7PIduGGTpQ/edit?usp=sharing 
 
-## Rent Data Dashboard
+## Rent Data Dashboard Link
 
 https://public.tableau.com/app/profile/michelle.carranza/viz/RentDataDashboard_16741232889650/RentAveragebyZipCode
