@@ -23,7 +23,7 @@
 ![Screenshot_20230105_083449](https://user-images.githubusercontent.com/111101038/210931086-90be571c-8a19-4d55-b321-a4ccfb568b29.png)
 
 ### We used Zillow rent data for our model. For cleaning, we deleted null values, dropped some column names, transpose the data.We converted our dataset to appropriate for time series analysis. 
-### For feature selection we choose two features of first dataset Date and RegionName, which is basically zip codes for the area.For our second dataset, we choose the year and Social Security amount. Our decision is to predict the rental rate and social security increase in future. For our se
+### For feature selection we choose two features of first dataset Date and RegionName, which is basically zip codes for the area.For our second dataset, we choose the year and Social Security amount. Our decision is to predict the rental rate and social security increase in future. 
 ### For train and test we split our data into approx. 80% and 20%. We used our 80% data for training purpose and 20% for the testing purposes and for future prediction used our whole dataset.
 ### We used the SARIMA machine learning model for the analysis. Benefit of this model is it’s a good model for seasonal time series analysis. Limitation of this model is doesn't work well for long term predictions. As, the time period goes up the model’s accuracy start decreasing. 
 
