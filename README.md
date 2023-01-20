@@ -78,3 +78,6 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 ## Google Slides Link
 
 https://docs.google.com/presentation/d/1Go8pSuyrXhttIZDGgcG-vxBTrxctnHBkB7PIduGGTpQ/edit?usp=sharing 
+
+https://public.tableau.com/app/profile/john.lansberry/viz/UCSDFinalProject/Dashboard1#1
+
