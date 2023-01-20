@@ -22,15 +22,20 @@
 
 ![Screenshot_20230105_083449](https://user-images.githubusercontent.com/111101038/210931086-90be571c-8a19-4d55-b321-a4ccfb568b29.png)
 
-### We used Zillow rent data for our model. For cleaning, we deleted null values, dropped some column names, transpose the data. 
-### For feature selection we choose two features of dataset Date and RegionID, which is basically zip codes for the area. Our decision is to predict the rental rate increase in future. 
-### For train and test we split our data into approx. 80% and 20%. We used our 80% data for training purpose and 20% for the testing purposes and for future prediction used our whole dataset.
-### We used the SARIMA machine learning model for the analysis. Benefit of this model is it’s a good model for seasonal time series analysis. Limitation of this model is doesn't work well for long term predictions. As, the time period goes up the model’s accuracy start decreasing. The screenshot below is showing the SRIMA model prediction for future rent increase.
+### We used Zillow rent data for our model. For cleaning, we deleted null values, dropped some column names, transpose the data.We converted our dataset to appropriate for time series analysis. 
+### For feature selection we choose two features of first dataset Date and RegionName, which is basically zip codes for the area.For our second dataset, we choose the year and Social Security amount. Our decision is to predict the rental rate and social security increase in future. 
+### For train and test we split our data into approx. 80% and 20%. We used our 80% data for training purpose and 20% for the testing purposes and for future prediction we used our whole datasets.
+### We used the SARIMA machine learning model for the analysis. Benefit of this model is it’s a good model for seasonal time series analysis. Limitation of this model is doesn't work well for long term predictions. As, the time period goes up the model’s accuracy start decreasing. 
+
+### We started with the linear regression that did not serve the purpose of future prediction. We tried ARIMA Model that gave us low accuracy and did not work well for future predictions. After that, we select SARIMA model that gives us good accuracy and working good for future predictions.
+### We used our 80% of data for training purposes. For Additional training in future, we can add more historical data that will help our model for better future predictions and increase the accuracy.
+### To test the accuracy of model we used MSE which is mean_squared_error. Our model worked well as from images, we can see the difference between actual and future prediction.  we have approximately $50 mean difference between actual values and predictions.
+
+![mean_error](https://user-images.githubusercontent.com/111101038/213587539-05fa7216-2c3a-48b2-8d7c-189836597849.png)
+
+![social_security](https://user-images.githubusercontent.com/111101038/213587519-51773fe2-8fcc-40b6-b37b-3d3200b53b4f.png)
+### Our model is addressing the problem well, as we are trying to predict rental rate and future social security increase.The screenshot below is showing the SRIMA model prediction for future rent increase.
 ![Screenshot_20230112_074745](https://user-images.githubusercontent.com/111101038/212233002-3c3b6f82-45fd-4617-95bb-9238d2184fcd.png)
-
-
-
-
 
 
 ## DATABASE
