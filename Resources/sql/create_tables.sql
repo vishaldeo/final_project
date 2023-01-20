@@ -27,3 +27,13 @@ CREATE TABLE SS_data_tab (
 
 ALTER TABLE Rent_Data_tab ADD CONSTRAINT fk_Rent_Data_tab_Year FOREIGN KEY(Year)
 REFERENCES SS_data_tab (Year);
+
+
+CREATE TABLE Predicted_Rent_Data_tab (
+    Zipcode INTEGER   NOT NULL,
+    Date Date   NOT NULL,
+    Rent numeric   NOT NULL,
+    CONSTRAINT pk_Predicted_Rent_Data_tab PRIMARY KEY (
+        Zipcode,Date
+     )
+);
