@@ -19,7 +19,7 @@
 ## MACHINE LEARNING MODEL
 
 ### Description of  data preprocessing
-###  We used Zillow rent data for our model. For cleaning, we deleted null values, dropped some column names, transpose the data.We converted our dataset to appropriate for time series analysis.
+###  We used  two data sets Zillow rent index for rents  and Go Banking Rates for social security. For cleaning, we deleted null values, dropped some column names, transpose the data.We converted our datasets to appropriate for time series analysis.
 
 ### Description of feature engineering
 ### For feature selection we choose two features of first dataset Date and RegionName, which is basically zip codes for the area.For our second dataset, we choose the year and Social Security amount. Our decision is to predict the rental rate and social security increase in future. 
