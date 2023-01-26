@@ -73,7 +73,9 @@ To load the data into the postgres database in AWS , we used the `sqlalchemy`
 
 ## Presentation
 
-## Google Slides Link
+## Link to Presentation
+
+(https://www.icloud.com/keynote/04bSlGIm8e6wh6Ui_kK1SM36A#Final_Project_Presentation)
 
 
 https://public.tableau.com/app/profile/john.lansberry/viz/UCSDFinalProject/Dashboard1#1
