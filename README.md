@@ -34,7 +34,7 @@
 ### We started with the linear regression that did not serve the purpose of future prediction. We tried ARIMA Model that gave us low accuracy and did not work well for future predictions. After that, we select SARIMA model that gives us good accuracy and working good for future predictions.
 
 ### Description of training
-### We used our 80% of data for training purposes. For Additional training in future, we can add more historical data that will help our model for better future predictions and increase the accuracy.
+### We used our 80% of data for training purposes. To retrain the model we reused whole datasets. For Additional training in future, we can add more historical data that will help our model for better future predictions and increase the accuracy.
 
 ### Accuracy score
 ### To test the accuracy of model we used MSE which is mean_squared_error. Our model worked well as from images, we can see the difference between actual and future prediction.  we have approximately $50 mean difference between actual values and predictions.
