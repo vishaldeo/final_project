@@ -39,7 +39,7 @@
 ### Accuracy score
 ### To test the accuracy of model we used MSE which is mean_squared_error. Our model worked well as from images, we can see the difference between actual and future prediction.  we have approximately $50 mean difference between actual values and predictions.
 
-![mean_square](https://user-images.githubusercontent.com/111101038/214915056-bb141c44-3f5d-45ca-9019-056e7fbecb99.png)
+![MeanSqaure](https://user-images.githubusercontent.com/111101038/214915510-23888abc-3df5-4140-b8b5-5f4ad8d4fb94.png)
 
 ![social_security](https://user-images.githubusercontent.com/111101038/213587519-51773fe2-8fcc-40b6-b37b-3d3200b53b4f.png)
 
