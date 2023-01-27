@@ -81,3 +81,5 @@ https://www.icloud.com/keynote/02aCTzRBQrI1kjWG-kuY0iiKA#Team_Final_Project_Pres
 https://public.tableau.com/app/profile/john.lansberry/viz/UCSDFinalProject/Dashboard1#1
 
 https://public.tableau.com/app/profile/john.lansberry/viz/Final_Project_Tableau_16741897087910/Dashboard1
+
+https://public.tableau.com/app/profile/michelle.carranza/viz/RentDataUpdated/RentandSSbyZip
